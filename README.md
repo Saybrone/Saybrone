@@ -10,9 +10,9 @@
 - HTML,React
 
 [Hardware]
--Esp32, Raspberry Pi, STM32
--RF Modules, Low-level Hardware, Embedded Systems
--Dynamic Mechanical Systems
+- Esp32, Raspberry Pi, STM32
+- RF Modules, Low-level Hardware, Embedded Systems
+- Dynamic Mechanical Systems
 
 [Personality]
 - Prefers minimalism over formality
