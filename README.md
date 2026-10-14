@@ -1,16 +1,14 @@
-## Hi there 👋
+## Saybrone
+[bio]
+- Works on non-linear dynamics and chaos
+- Considers himself a maker
+- Participates in FLL/WRO/FRC/Hackhatons 
 
-<!--
-**Saybrone/Saybrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[tech stack]
+- C/C++, Rust, Ruby, Assembly x86_64❤️
+- Python,JAVA, Bash
+- HTML,React
+  
+[Personality]
+- Prefers minimalism over formality
+- Linux enthusiast
